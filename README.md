@@ -2,6 +2,7 @@
 Javascript AJAX Example
 
 Client Side = Front-end
+
 Server Side = Back-end
 
 The code found here is client side scripting.
